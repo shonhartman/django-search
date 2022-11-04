@@ -124,8 +124,6 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-# Content-Security-Policy: frame-ancestors 'self' example.com *.example.net ;
-
 # X_FRAME_OPTIONS = 'SAMEORIGIN'
 CSP_FRAME_ANCESTORS = 'https://import-data-as-collection.webflow.io'
 
