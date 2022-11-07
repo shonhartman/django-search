@@ -125,6 +125,6 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # X_FRAME_OPTIONS = 'SAMEORIGIN'
-CSP_FRAME_ANCESTORS = 'https://import-data-as-collection.webflow.io'
+CSP_FRAME_ANCESTORS = 'https://built-in-react.webflow.io'
 
 
